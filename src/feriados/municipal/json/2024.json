@@ -1,0 +1,42 @@
+[
+  {
+    "data": "29/03/2024",
+    "nome": "Sexta-feira Santa",
+    "tipo": "MUNICIPAL",
+    "descricao": "conforme Lei nº 317/1967",
+    "uf": "ES",
+    "municipio": "Cariacica"
+  },
+  {
+    "data": "13/04/2024",
+    "nome": "Nossa Senhora da Penha",
+    "tipo": "MUNICIPAL",
+    "descricao": "conforme Lei Municipal nº 317/1967",
+    "uf": "ES",
+    "municipio": "Cariacica"
+  },
+  {
+    "data": "30/05/2024",
+    "nome": "Corpus Christi",
+    "tipo": "MUNICIPAL",
+    "descricao": "conforme Lei nº 317/1967",
+    "uf": "ES",
+    "municipio": "Cariacica"
+  },
+  {
+    "data": "24/06/2024",
+    "nome": "São João Batista",
+    "tipo": "MUNICIPAL",
+    "descricao": "Dia de São João Batista, Aniversário de Cariacica - conforme Lei Municipal nº 317/1967",
+    "uf": "ES",
+    "municipio": "Cariacica"
+  },
+  {
+    "data": "20/11/2024",
+    "nome": "Dia da Consciência Negra",
+    "tipo": "MUNICIPAL",
+    "descricao": "Dia da Consciência Negra",
+    "uf": "ES",
+    "municipio": "Cariacica"
+  }
+]

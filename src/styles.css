@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.informacoes {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.titulo {
+    padding: 1.5rem;
+    font-size: 5vw;
+}
+
+.data-entrega {
+    border: solid 5px black;
+    font-size: 15vw;
+    color: green;
+    padding: 2rem;
+}
+
+.data-facultativo {
+    font-size: 2vw;
+    padding: 1.5rem;
+}
+
+.data-facultativo b {
+    color: blue;
+}
